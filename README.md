@@ -6,6 +6,7 @@ Guías de estudio y recursos para avanzar hacia la arquitectura de datos, la arq
 
 - [Roadmap: Arquitectura de Datos e IA](./Data-Architect-Roadmap.md) — plan de cuatro semanas, ruta de certificaciones AWS y GitHub, uso de Udemy Enterprise, Percipio y Pluralsight, y proyecto de gobierno asistido por agentes.
 - [Big Data Foundations: The Modern Data Ecosystem](./BigDataFoundations-Course-Summary.md) — resumen en español sobre plataformas de datos modernas, pipelines, lakehouse, gobierno y tendencias de IA.
+- [Seguimiento del plan de estudios](./COURSE-TRACKER.md) — tabla editable para registrar cursos, horas, avance, fechas, evidencias y preparación de certificaciones.
 
 ## Enfoque
 
